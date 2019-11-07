@@ -1,0 +1,122 @@
+body{
+  background-color: #ffe3ed;
+  text-align: center;
+  margin:0;
+}
+h1{
+  font-size: 12rem;
+  font-family: 'Sacramento', cursive;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+h1:hover{
+  color: #ff0096;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin: 0 ;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  margin:0;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.15rem;
+
+
+  align-items: center;
+}
+a{
+  color: #e476b7;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #ff0096
+
+}
+.girlmodel{
+  position: absolute;
+  left:100px;
+
+}
+
+.esculpidas-work{
+  float:right;
+    width: 35%;
+}
+.francesa-work{
+  float:left;
+  width: 35%;
+}
+.clasico-work{
+  float:right;
+    width: 35%;
+}
+.uñas{
+  position: relative;
+
+  bottom: 5px;
+
+}
+.top{
+  background-color: #fa877f;
+  margin:0 auto;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+.middle-container{
+  margin: 100px 0 ;
+}
+.bottom-container{
+  background-color: #ffcce2;
+  margin-top: 300px;
+  margin-bottom: 0;
+  padding-bottom: 45px;
+}
+.Manicure{
+  float:right;
+}
+.estetica{
+  float: left;
+}
+.mis-trabajos{
+  width: 50%;
+  margin: 150px auto 50px auto;
+
+}
+.Esmaltado-tradicional
+{
+    font-size: 3.75rem;
+}
+.semi-work-img{
+  float: left;
+    width: 35%;
+}
+.pedicure-img{
+  float: left;
+  margin: 0;
+
+}
+.semiparagraph{
+  font-size: 2.2rem;
+  text-align: left;}
+.img-instagram{
+position: relative;
+left: 15px;
+top: 15px;
+}
+.whatsapp-img
+{
+  position: relative;
+  left: 30px;
+  top: 25px;
+}
